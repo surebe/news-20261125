@@ -1,0 +1,439 @@
+{
+ "briefs": [
+  {
+   "headline": "Nollywood legend Pete Edochie dies aged 79",
+   "region": "AFRICA",
+   "source": "BBC",
+   "text": "Died at 00:30 in Enugu after prostate cancer."
+  },
+  {
+   "headline": "US inflation 3.8%; GDP revised to 4.3%",
+   "region": "NORTH AMERICA",
+   "source": "BEA",
+   "text": "PCE up 3.8% on year; GDP up from 3.4%."
+  },
+  {
+   "headline": "Australia's inflation jumps to 4.9% in October",
+   "region": "OCEANIA",
+   "source": "ABS / Reuters",
+   "text": "Fastest in three years; core 3.8%."
+  },
+  {
+   "headline": "Fort Hood shooter seeks execution delay",
+   "region": "NORTH AMERICA",
+   "source": "AP",
+   "text": "Hasan killed 13 in 2009; he fights on."
+  },
+  {
+   "headline": "East Coast storm to hit Thanksgiving",
+   "region": "NORTH AMERICA",
+   "source": "Reuters",
+   "text": "Rain and strong winds due."
+  },
+  {
+   "headline": "Pope calls COP31 failure 'troubling'",
+   "region": "EUROPE",
+   "source": "Reuters",
+   "text": "Urged action at his weekly audience."
+  },
+  {
+   "headline": "Roche cancer drug wins second FDA approval",
+   "region": "NORTH AMERICA",
+   "source": "Principia",
+   "text": "Swiss pill wins a second approval."
+  },
+  {
+   "headline": "Mexico investment hits record $43.09bn",
+   "region": "LATIN AMERICA",
+   "source": "Rio Times",
+   "text": "Record nine months; 81% reinvested."
+  }
+ ],
+ "date_check": "Huawei verdict (Tue 24 Nov) · Senegal AFCON ruling (Tue 24 Nov) · Martha Ford dies (Tue 24 Nov) · Shein $100m deal (Tue 24 Nov) · Patriot pause (Tue 24 Nov)",
+ "date_line": "Wednesday 25 November 2026",
+ "deck": "New tariffs for 14 partners, a blast in Iowa, mines in Hormuz — and a Pakistani astronaut boards Tiangong",
+ "extra_pins": [
+  {
+   "lat": 6.5,
+   "lon": 7.5,
+   "num": 13
+  },
+  {
+   "lat": 19.4,
+   "lon": -99.1,
+   "num": 20
+  },
+  {
+   "lat": 41.9,
+   "lon": 12.5,
+   "num": 18
+  }
+ ],
+ "hero": {
+  "art": "hero-tariffs",
+  "certainty": "CONFIRMED",
+  "headline": "US proposes new tariffs on 14 partners, China facing 20%",
+  "kicker": "TRADE · WASHINGTON",
+  "num": 1,
+  "pin": {
+   "lat": 38.9,
+   "lon": -77.0
+  },
+  "source": "REUTERS · WEDNESDAY",
+  "summary": "The Trump administration proposed duties after an eight-month probe into excess factory capacity: 20% on China, 15% on the EU, Japan, South Korea, Switzerland and Taiwan, 18% on five Asian exporters, 10% on Singapore, up to 35% on Vietnam without a deal. Beijing called it a 'false issue'; hearings in January."
+ },
+ "overflow": [
+  {
+   "headline": "Nuclear test veterans get truth",
+   "num": 21,
+   "region": "EU"
+  },
+  {
+   "headline": "Sterling gets suspended sentence",
+   "num": 22,
+   "region": "EU"
+  },
+  {
+   "headline": "Two charged at Sandringham",
+   "num": 23,
+   "region": "EU"
+  },
+  {
+   "headline": "Young Brits: third never had sex",
+   "num": 24,
+   "region": "EU"
+  },
+  {
+   "headline": "UK sent sex offender abroad",
+   "num": 25,
+   "region": "EU"
+  },
+  {
+   "headline": "BBC, Netflix launch CBeebies hub",
+   "num": 26,
+   "region": "EU"
+  },
+  {
+   "headline": "Spain split ahead of election",
+   "num": 27,
+   "region": "EU"
+  },
+  {
+   "headline": "China presses Dutch on Nexperia",
+   "num": 28,
+   "region": "AS"
+  },
+  {
+   "headline": "India's rising cost of food",
+   "num": 29,
+   "region": "AS"
+  },
+  {
+   "headline": "AI fakes smear Taiwan candidates",
+   "num": 30,
+   "region": "AS"
+  },
+  {
+   "headline": "NK Christians 'spied on, beaten'",
+   "num": 31,
+   "region": "AS"
+  },
+  {
+   "headline": "Jordan sentences killer to death",
+   "num": 32,
+   "region": "ME"
+  },
+  {
+   "headline": "Syria land-mine casualties soar",
+   "num": 33,
+   "region": "ME"
+  },
+  {
+   "headline": "Warrant for Mugabe's son",
+   "num": 34,
+   "region": "AF"
+  },
+  {
+   "headline": "Nigerian monarch, 92, suspended",
+   "num": 35,
+   "region": "AF"
+  },
+  {
+   "headline": "Insurgents take war to the skies",
+   "num": 36,
+   "region": "AF"
+  },
+  {
+   "headline": "Cameroon: shot in the face at 15",
+   "num": 37,
+   "region": "AF"
+  },
+  {
+   "headline": "Policeman guilty of murder",
+   "num": 38,
+   "region": "OC"
+  },
+  {
+   "headline": "NZ netball league collapses",
+   "num": 39,
+   "region": "OC"
+  },
+  {
+   "headline": "Khawaja hits back at Cummins",
+   "num": 40,
+   "region": "OC"
+  },
+  {
+   "headline": "AG dodges Nvidia questions",
+   "num": 41,
+   "region": "NA"
+  },
+  {
+   "headline": "Amazon buys Decart in chip race",
+   "num": 42,
+   "region": "NA"
+  },
+  {
+   "headline": "Anthropic loses $1tn valuation",
+   "num": 43,
+   "region": "NA"
+  },
+  {
+   "headline": "Car bomb hits governor's office",
+   "num": 44,
+   "region": "LA"
+  }
+ ],
+ "paper": "THE WHOLE WORLD",
+ "press_note": "All stories happened or were first reported on Wed 25 Nov 2026, checked against the wires at the 20:30 UTC freeze. Iowa blast confirmed detonated ~09:00 CST; EPA monitors found zero lead in the air.",
+ "rail": [
+  {
+   "art": "rail-iowa",
+   "certainty": "CONFIRMED",
+   "headline": "Army detonates 9,700 lb of lead azide in Iowa",
+   "kicker": "IOWA · MIDDLETOWN",
+   "num": 2,
+   "pin": {
+    "lat": 40.8,
+    "lon": -91.3
+   },
+   "source": "REUTERS / EPA · 15:00 UTC",
+   "summary": "Two booms around 09:00 CST ended days of delays and court fights. Middletown had evacuated; EPA monitors found zero lead in the air an hour later."
+  },
+  {
+   "art": "rail-hormuz",
+   "certainty": "CLAIM",
+   "headline": "Iran says two tankers hit mines off Hormuz",
+   "kicker": "WAR AT SEA · STRAIT OF HORMUZ",
+   "num": 3,
+   "pin": {
+    "lat": 26.6,
+    "lon": 56.3
+   },
+   "source": "REUTERS · EARLY WEDNESDAY",
+   "summary": "Two tankers struck naval mines, exploded and caught fire early Wednesday, Iran's Guards Navy said. No vessel names were given; the claim is unverified."
+  }
+ ],
+ "regions": [
+  {
+   "count": 9,
+   "name": "NORTH AMERICA"
+  },
+  {
+   "count": 3,
+   "name": "LATIN AMERICA"
+  },
+  {
+   "count": 10,
+   "name": "EUROPE"
+  },
+  {
+   "count": 7,
+   "name": "AFRICA"
+  },
+  {
+   "count": 4,
+   "name": "MIDDLE EAST"
+  },
+  {
+   "count": 6,
+   "name": "ASIA"
+  },
+  {
+   "count": 5,
+   "name": "OCEANIA"
+  }
+ ],
+ "sources_line": "Reuters · AP · BBC · AFP · Ofgem · BEA · ABS · Al Jazeera · Principia · The Rio Times",
+ "stats": [
+  {
+   "label": "Russian war dead since 2022, per leaked data",
+   "n": "490,334"
+  },
+  {
+   "label": "proposed tariff on China, highest of 14",
+   "n": "20%"
+  },
+  {
+   "label": "of unstable lead azide detonated in Iowa",
+   "n": "9,700 lb"
+  },
+  {
+   "label": "rise in UK energy price cap from January",
+   "n": "26%"
+  },
+  {
+   "label": "US Q3 GDP growth, revised up from 3.4%",
+   "n": "4.3%"
+  },
+  {
+   "label": "hostages freed in Cartagena supermarket siege",
+   "n": "20"
+  }
+ ],
+ "strip": [
+  {
+   "art": "strip-houthi",
+   "certainty": "CLAIM",
+   "headline": "Houthis claim refinery and Riyadh strikes",
+   "kicker": "YEMEN · RAS TANURA",
+   "num": 7,
+   "source": "REUTERS · 07:31 UTC"
+  },
+  {
+   "art": "strip-solomon",
+   "certainty": "CONFIRMED",
+   "headline": "Solomons signs Australia treaty, drops China pact",
+   "kicker": "PACIFIC · CANBERRA",
+   "num": 8,
+   "pin": {
+    "lat": -35.3,
+    "lon": 149.1
+   },
+   "source": "REUTERS · 03:15 UTC"
+  },
+  {
+   "art": "strip-cartagena",
+   "certainty": "CONFIRMED",
+   "headline": "Forces free 20 hostages after 17-hour siege",
+   "kicker": "COLOMBIA · CARTAGENA",
+   "num": 9,
+   "pin": {
+    "lat": 10.4,
+    "lon": -75.5
+   },
+   "source": "REUTERS / AFP"
+  },
+  {
+   "art": "strip-ramaphosa",
+   "certainty": "CONFIRMED",
+   "headline": "Court quashes Ramaphosa impeachment report",
+   "kicker": "SOUTH AFRICA · CAPE TOWN",
+   "num": 10,
+   "pin": {
+    "lat": -33.9,
+    "lon": 18.4
+   },
+   "source": "REUTERS · WEDNESDAY"
+  },
+  {
+   "art": "strip-energy",
+   "certainty": "CONFIRMED",
+   "headline": "UK energy bills to rise 26% from January",
+   "kicker": "BRITAIN · LONDON",
+   "num": 11,
+   "pin": {
+    "lat": 51.5,
+    "lon": -0.1
+   },
+   "source": "OFGEM / REUTERS"
+  },
+  {
+   "art": "strip-kospi",
+   "certainty": "CONFIRMED",
+   "headline": "Asia's tech selloff deepens as Kospi falls 6%",
+   "kicker": "MARKETS · SEOUL",
+   "num": 12,
+   "pin": {
+    "lat": 37.6,
+    "lon": 127.0
+   },
+   "source": "REUTERS · WEDNESDAY"
+  }
+ ],
+ "tagline": "ONE PAGE · EVERY REGION · EVERY FIELD",
+ "text_leads": [
+  {
+   "certainty": "REPORTED",
+   "headline": "Russia's own figures show 490,334 soldiers dead",
+   "kicker": "UKRAINE · MOSCOW",
+   "num": 5,
+   "pin": {
+    "lat": 55.8,
+    "lon": 37.6
+   },
+   "source": "BBC / MEDIAZONA · 01:00 UTC",
+   "summary": "BBC and Mediazona analysed leaked Rosstat records; true toll put at 527,000–644,000."
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Drone strikes kill 19 civilians in Sudan's Blue Nile",
+   "kicker": "SUDAN · DAMAZIN",
+   "num": 6,
+   "pin": {
+    "lat": 11.8,
+    "lon": 34.4
+   },
+   "source": "REUTERS · 11:41 UTC",
+   "summary": "RSF drones hit Damazin on Tuesday night, Emergency Lawyers said; hospital source: 14."
+  }
+ ],
+ "timeline": [
+  {
+   "text": "Shenzhou-24 lifts off, Jiuquan",
+   "utc": "00:18"
+  },
+  {
+   "text": "BBC publishes Rosstat toll",
+   "utc": "01:00"
+  },
+  {
+   "text": "Solomons treaty signed",
+   "utc": "03:15"
+  },
+  {
+   "text": "Crew boards Tiangong station",
+   "utc": "06:35"
+  },
+  {
+   "text": "Houthis claim refinery attack",
+   "utc": "07:31"
+  },
+  {
+   "text": "Sudan toll reported: 19 killed",
+   "utc": "11:41"
+  },
+  {
+   "text": "US inflation 3.8%; GDP 4.3%",
+   "utc": "13:30"
+  },
+  {
+   "text": "Iowa blast goes off; no lead",
+   "utc": "15:00"
+  }
+ ],
+ "total_stories": 44,
+ "wide_lead": {
+  "art": "wide-tiangong",
+  "certainty": "CONFIRMED",
+  "headline": "First Pakistani astronaut boards China's Tiangong station",
+  "kicker": "SPACE · JIUQUAN, CHINA",
+  "num": 4,
+  "pin": {
+   "lat": 40.9,
+   "lon": 100.3
+  },
+  "source": "REUTERS · 06:35 UTC",
+  "summary": "Muhammad Zeeshan Ali entered Tiangong at 06:35 UTC after Shenzhou-24 launched at 00:18 and docked at 03:56 — the first foreigner aboard."
+ }
+}
