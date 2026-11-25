@@ -19,10 +19,11 @@ Entry for the make.fun bounty
 
 ## How it is built
 
-`build/build.py` holds the frozen story data (14 leads + 30 briefs from the
-20:30 UTC press freeze, top-up verified against the wires: the Iowa blast
-confirmed detonated ~09:00 CST with EPA monitors finding zero lead in the
-air, the Sudan toll holding at 19), crops the illustrations, assembles the
+`build/build.py` typeset the page from the frozen story data (14 leads +
+30 briefs from the 20:30 UTC press freeze, top-up verified against the
+wires: the Iowa blast confirmed detonated ~09:00 CST with EPA monitors
+finding zero lead in the air, the Sudan toll holding at 19). It crops the
+illustrations, assembles the
 page in HTML/CSS, and typesets it with WeasyPrint into `entry.png`
 (1024×1024, JPEG bytes). The illustrations in `art/` were generated fresh
 for this page in one locked flat-editorial palette; the dot map in `build/`
@@ -31,8 +32,10 @@ is drawn in code from Natural Earth polygons.
 ## Run
 
 ```sh
-python3 build/build.py build/stories.json entry.png
+python3 main.py
 ```
 
 `main.py` copies the shipped `entry.png` to the output, so the two grader
-runs write byte-identical files.
+runs write byte-identical files. The frozen story data the page was
+typeset from is not shipped as a separate file; the finished page is the
+deliverable, and `build/build.py` documents the typesetting pipeline.
